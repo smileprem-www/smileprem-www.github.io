@@ -1,0 +1,7 @@
+_site/
+.idea/
+*.class
+*.tsv
+*.project
+.jekyll-metadata
+.jekyll-cache
